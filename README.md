@@ -2,7 +2,7 @@
 ## A.Y. 2022/2023
 
 
-These are my solutions to the homeworks proposed during one of the many Machine Learning courses in the academic year 2022/2023. Such homeworks covered some of the most important topics described during the lectures, mainly
+Solutions to the homeworks proposed during one of the many Machine Learning courses held at the University of Padua in the academic year 2022/2023. Such homeworks covered some of the most important topics described during the lectures, mainly
 - Linear Regression
 - Support Vector Machines (SVM)
 - Neural Networks ~ Clustering
